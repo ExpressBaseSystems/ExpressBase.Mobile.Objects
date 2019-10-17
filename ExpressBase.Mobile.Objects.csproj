@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<ProjectReference Include="..\ServiceStack.Core\ServiceStack.RabbitMq\ServiceStack.RabbitMq.csproj" />-->
+    <ProjectReference Include="..\ExpressBase.Mobile.Common\ExpressBase.Mobile.Common.csproj" />
+  </ItemGroup>
+
+</Project>
