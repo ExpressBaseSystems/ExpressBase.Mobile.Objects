@@ -32,6 +32,8 @@ namespace ExpressBase.Mobile.Objects
         public int MaxFileSize { set; get; }
 
         public bool ResizeViewPort { set; get; }
+
+        public bool DisableUpload { set; get; }
     }
 
     public class EbFupCategories : EbControl
